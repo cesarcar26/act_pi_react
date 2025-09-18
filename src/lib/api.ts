@@ -6,7 +6,7 @@ const PRODUCTS: Product[] = [
     id: 1,
     name: "Procesador AMD Ryzen 5 5600X",
     category: 'CPU',
-    price: 199.99,
+    price: 250.000,
     image: "/images/cpu_amd.jpg",
     description: "Un procesador de alto rendimiento ideal para gaming y productividad."
   },
@@ -14,7 +14,7 @@ const PRODUCTS: Product[] = [
     id: 2,
     name: "Tarjeta Gráfica NVIDIA GeForce RTX 3060",
     category: 'GPU',
-    price: 329.50,
+    price: 350.000,
     image: "/images/gpu_nvidia.jpg",
     description: "Gráficos impresionantes con Ray Tracing y DLSS."
   },
@@ -22,7 +22,7 @@ const PRODUCTS: Product[] = [
     id: 3,
     name: "Memoria RAM Corsair Vengeance 16GB",
     category: 'RAM',
-    price: 79.99,
+    price: 179.000,
     image: "/images/ram_corsair.jpg",
     description: "Módulos de alta velocidad para un rendimiento fluido."
   },
@@ -30,7 +30,7 @@ const PRODUCTS: Product[] = [
     id: 4,
     name: "Disco SSD Samsung 970 EVO Plus 1TB",
     category: 'Storage',
-    price: 109.99,
+    price: 540.000,
     image: "/images/ssd_samsung.jpg",
     description: "Almacenamiento ultra-rápido para tus juegos y aplicaciones."
   },
