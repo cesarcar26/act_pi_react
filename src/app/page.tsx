@@ -1,4 +1,3 @@
-// src/app/page.tsx
 import Link from 'next/link';
 import ProductCard from '../components/features/ProductCard';
 import { getFeaturedProducts } from '../lib/api';
